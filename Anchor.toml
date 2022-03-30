@@ -1,0 +1,4 @@
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
